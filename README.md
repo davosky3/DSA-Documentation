@@ -1,4 +1,4 @@
-# DSA-DATA-ANALYSIS-PROJECT
+# DSA-PROJECT- Palmoria Group Case Study 
 📊 Overview
 This project is part of the DSA Data Analysis Capstone and focuses on analyzing the HR dataset of Palmoria Group, a Nigerian manufacturing company. The analysis addresses issues surrounding gender distribution, performance ratings, salary disparities, and compliance with the new $90,000 minimum salary policy. It also includes a detailed breakdown of bonus allocation based on performance.
 
