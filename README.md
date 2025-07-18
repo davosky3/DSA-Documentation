@@ -1,21 +1,40 @@
-# DSA-Documentation
+# DSA-DATA-ANALYSIS-PROJECT
+📊 Overview
+This project is part of the DSA Data Analysis Capstone and focuses on analyzing the HR dataset of Palmoria Group, a Nigerian manufacturing company. The analysis addresses issues surrounding gender distribution, performance ratings, salary disparities, and compliance with the new $90,000 minimum salary policy. It also includes a detailed breakdown of bonus allocation based on performance.
 
-This project gives an overview of my journey into Data analysis with the Incubator Hub Ng
+🎯 Objectives
++ Analyze gender distribution across regions and departments
++ Detect performance rating trends across genders
++ Identify potential gender pay gaps
++ Evaluate compliance with the $90,000 salary threshold
++ Segment employees by salary bands
++ Allocate bonuses and calculate total compensation
++ Create a visual, interactive dashboard in Power BI
 
-I have learnt a lot ranging from Excel to SQl to power BI
+🗃 Data Structure
+The dataset contains employee information including:
++ Employee ID
++ Gender
++ Region
++ Department
++ Salary
++ Performance Rating
++ Bonus rules are defined in a separate table based on rating levels.
 
-## Project Topic:  Palmora Group HR Analysis
+🧰 Tools Used
++ Microsoft Power BI – Data cleaning, analysis, dashboard
++ Microsoft Excel – Pre-processing and formatting
++ GitHub – Portfolio hosting
++ DAX / Power Query – Calculated columns and measures
 
-### Project Overview
-This project looks at HR data in the palmora group to draw insight on gender distribution and so on...
+🔍 Key Insights
++ Several departments show imbalanced gender representation
++ Some regions fall below the mandated $90,000 minimum salary
++ Average salary gaps were found in key departments by gender
++ Bonus allocation highlights top-performing employees
++ Salary band analysis shows majority earning between $70k–90k
 
-### Data Source
-The primary source of Data for this project is was given both as a CSV file and an excel file
-
-### Tools Used
-- MS Excel (Download Here)
-  - For Data collection
-  - For Data cleaning
-- Power BI
-
-### Data Cleaning and Preparation
+🙌 Author: David Echem 
+📍 Lagos State, Nigeria 
+📱 ‪+234 803 513 4209‬ 
+📧 david.echem3@gmail.com 
